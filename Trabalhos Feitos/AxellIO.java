@@ -10,13 +10,6 @@ Versao:  1.0                          Data: 31/03/2018
 
 */
 
-/*
-Como a biblioteca IO não me possibilita diferenciar entradas nao numericas da
-entrada 0 tanto nas funcoes de obtencao de tipos primitivos ( IO.readint() ) quanto
-nas funcoes de obtencao de objetos (ex: IO.readInt()), criei essa aqui em que vou
-conseguir fazer isso com os objetos.
-*/
-
 public class AxellIO
 {
     public static final String LINE_SEPARATOR =
