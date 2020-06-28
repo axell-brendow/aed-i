@@ -1,0 +1,3 @@
+ErrorInterface
+ErrorClass
+AErrorClass

@@ -1,0 +1,15 @@
+wall 1 0 10 2 1
+wall 0 1 10 1 1
+beeper 2 4 1 12
+beeper 2 5 1 12
+beeper 2 6 1 12
+beeper 3 4 1 1
+beeper 3 5 1 1
+beeper 3 6 1 12
+beeper 4 4 1 1
+beeper 4 5 1 12
+beeper 4 6 1 1
+beeper 5 4 1 12
+beeper 5 5 1 1
+beeper 5 6 1 1
+robot 1 4 3 00 0

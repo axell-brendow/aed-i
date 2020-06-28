@@ -1,0 +1,6 @@
+Marcador(es) pego(s) em (5, 5)
+Marcador(es) pego(s) em (5, 4)
+Marcador(es) pego(s) em (4, 4)
+Marcador(es) pego(s) em (4, 3)
+Marcador(es) pego(s) em (5, 3)
+Marcador(es) pego(s) em (3, 3)

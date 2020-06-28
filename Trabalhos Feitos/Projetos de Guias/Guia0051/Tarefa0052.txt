@@ -1,0 +1,32 @@
+moveAndTurn(7, NORTH); // anda sete passos e vira para cima
+moveAndTurn(7, WEST);
+moveAndTurn(4, SOUTH);
+moveAndTurn(1, WEST);
+moveAndTurn(1, SOUTH);
+moveAndTurn(3, EAST);
+moveAndTurn(4, NORTH);
+moveAndTurn(3, WEST);
+moveAndTurn(2, SOUTH);
+moveAndTurn(2, EAST);
+moveAndTurn(1, WEST);
+pickBeepers();
+
+moveAndTurn(1, NORTH);
+moveAndTurn(2, EAST);
+moveAndTurn(2, SOUTH);
+moveAndTurn(4, WEST);
+pickBeepers();
+
+moveAndTurn(4, NORTH);
+moveAndTurn(4, EAST);
+moveAndTurn(1, NORTH);
+moveAndTurn(1, WEST);
+moveAndTurn(2, SOUTH);
+moveAndTurn(5, NORTH);
+pickBeepers();
+
+moveAndTurn(5, EAST);
+moveAndTurn(6, SOUTH);
+moveAndTurn(7, WEST);
+moveAndTurn(7, EAST);
+putBeepers(6);

@@ -1,0 +1,156 @@
+PUC-Minas
+Instituto de Ciências Exatas e Informática
+Curso de Ciência da Computação
+Algoritmos e Estruturas de Dados I
+
+Links recomendados
+
+http://www.oracle.com/technetwork/java/javase/index.html   
+    Java SDK 9 Update 004
+    Pacote do Java e documentação (recomendados)
+    Obs.: Instalar primeiro, antes do JGrasp.
+          O programa também poderá ser encontrado para cópia local em
+          ftp://ftp.pucmg.br/pub/Computação/Mais_Utilizados/Programacao_Software/Java/jdk-9u004-windows-x64.exe
+          ftp://ftp.pucmg.br/pub/Computação/Mais_Utilizados/Programacao_Software/Java/jdk-9u004-windows-i586.exe
+          ftp://ftp.pucmg.br/pub/Computação/Mais_Utilizados/Programacao_Software/Java/jdk-9u004-apidocs-all.zip
+         
+          Atualizações anteriores à sugerida 
+          também poderão ser usadas, 
+          se já estiverem instaladas;
+          senão, melhor usar a acima, 
+          visto a possibilidade de ocorrer problemas 
+          com outros programas como navegadores e aplicativos diversos.
+          Versões anteriores poderão ser usadas,
+          se já estiverem instaladas,
+          desde que compatíveis com SDK 1.9.0 (Java SE 9);
+          porém, alguns navegadores têm dificuldade em lidar com
+          essas versões para alguns serviços, por isso 
+          ainda é recomendável utilizar a versão indicada. 
+          Independente da versão instalada,
+          convém instalar também a documentação
+          (Java SE 9 Documentation).
+
+http://www.jgrasp.org/
+    jGrasp v2.0.3_07 (02/06/2017)
+    Ferramenta para edição e compilação  
+    Obs.: O programa também poderá ser encontrado para cópia local em 
+          ftp://ftp.pucmg.br/pub/Computação/Mais_Utilizados/Programacao_Software/JGrasp
+          
+          Versões provisórias (betas), ainda que mais novas, 
+          também poderão ser usadas, 
+          porém, por ainda estarem em desenvolvimento
+          poderão apresentar erros; por isso,
+          ainda será recomendável utilizar a versão indicada. 
+          A compatibilidade com a versão do Java ainda não
+          está bem definida. Aguarda-se uma nova versão mais
+          compatível, e enquanto isso a versão atual já servirá.
+
+http://www.pucminas.br -> SGA
+    Pacote para facilitar entrada e saída em Java
+    2018-1_aed1_IO.zip
+    Obs.: O programa também poderá ser encontrado para cópia local em 
+          ftp://ftp.pucmg.br/pub/Computação/Mais_Utilizados/Programacao_Software/Java/AED_I/2018
+    
+http://www.pucminas.br -> SGA
+    Pacote para introduzir conceitos de programação.
+    2018-1_aed1_jkarel.zip
+    Obs.: O programa também poderá ser encontrado para cópia local em 
+          ftp://ftp.pucmg.br/pub/Computação/Mais_Utilizados/Programacao_Software/Java/AED_I/2018
+
+    IMPORTANTE:
+
+          Os arquivos
+ 
+             IO.jar 
+             e 
+             jkarel.jar 
+
+          deverão ser copiados 
+          para uma pasta (extra) a ser criada
+          onde o Java for instalado (JAVAHOME)
+
+          JAVAHOME\extra
+
+          Para versões anteriores deverão ser usadas
+          as pastas
+
+          JAVAHOME\jdk\jre\lib\ext e
+          JAVAHOME\jre\lib\ext
+          (ou similares, se houver).
+
+          É conveniente a definição de uma variável de ambiente
+          no sistema operacional para facilitar usos futuros:
+
+          CLASSPATH=JAVAHOME\extra\IO.jar;JAVAHOME\jdk\jkarel;.\
+
+
+https://drive.google.com/open?id=0B0yFvqyMR3f5OHBzQ3NOaXVVaU0
+    Máquina virtual Linux compatível 
+    com configuração semelhante à instalada nos laboratórios
+
+
+    Obs.: Será necessária a instalação do programa VirtualBox.
+          https://www.virtualbox.org/wiki/Downloads
+
+
+Para artigo(s) (Provisório):
+
+MARCONDES, C. H.; MENDONÇA, M. A. R.; MALHEIROS, L. R. 
+Uma proposta de modelo de representação do conhecimento 
+contido no texto de artigos científicos publicados na web 
+em formato legível por programas. Disponível em 
+http://dgz.org.br/out06/Art_03.htm. Acessado em 01/07/2015.
+
+
+Links úteis:
+
+https://java.com/pt_BR/download/help/windows_manual_download.xml
+    Como instalar e configurar o Java SDK 
+    em ambiente Windows (versão oficial)
+
+http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html
+    Java Code Conventions (original)    
+    Convenções para código em Java
+
+http://java.sun.com/j2se/javadoc/writingdoccomments/index.html   
+    Javadoc - Recomendações       
+    Recomendações para usar javadoc
+
+http://mindprod.com/jgloss/compileerrormessages.html
+    Lista com os principais erros de compilação
+    e suas prováveis causas
+
+http://mindprod.com/jgloss/runerrormessages.html
+    Lista com os principais erros de execução
+    e suas prováveis causas
+
+
+Opcionais:
+
+http://flowgorithm.org/download/index.htm
+    Flowgorithm v2.11.1
+    Ferramenta para edição e testes de fluxogramas   (opcional)
+
+http://www.greenfoot.org/download
+    Greenfoot v3.0.4 
+    Ferramenta para edição e compilação de programas (opcional)
+
+http://www.cs.joensuu.fi/jeliot/   
+    Jeliot v3.7.2
+    Animação de programas (opcional)
+
+http://findbugs.sourceforge.net/downloads.html
+    FindBugs v3.0.1
+    Aperfeiçoar código escrito em Java (opcional)
+
+
+Alternativa para cópias do material no SGA
+
+https://drive.google.com/drive/folders/1z9KJkzYloya8KNt9mhJOFmsjop7Yjf-t?usp=sharing
+
+Para contato sobre esse material usar o SGA ou 
+
+puc201401 at gmail.com
+
+
+Qualquer dúvida sobre o uso dos programas acima deverá ser encaminhada ao professor, aos monitores ou pessoal técnico do Instituto de Ciências Exatas e Informática.

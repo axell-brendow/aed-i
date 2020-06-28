@@ -1,0 +1,28 @@
+moveAndTurn(2, NORTH); // anda dois passos e vira para cima
+moveAndTurn(1, WEST);
+pickBeepers();
+
+moveAndTurn(2, NORTH);
+moveAndTurn(3, -1); // anda tres passos e nao vira no final
+pickBeepers();
+
+moveAndTurn(3, EAST);
+moveAndTurn(2, -1);
+pickBeepers();
+
+moveAndTurn(2, SOUTH);
+moveAndTurn(6, EAST);
+moveAndTurn(2, -1);
+putBeepers(1);
+
+moveAndTurn(2, NORTH);
+moveAndTurn(3, -1);
+putBeepers(1);
+
+moveAndTurn(3, WEST);
+moveAndTurn(2, -1);
+putBeepers(1);
+
+moveAndTurn(2, SOUTH);
+moveAndTurn(7, WEST);
+moveAndTurn(4, EAST);

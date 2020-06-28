@@ -1,0 +1,29 @@
+public static void recursive(int i, int f, int a)
+{
+    if (f >= i) // looping crescente
+    {
+        if (i - a >= f) // looping decrescente termina
+        {
+            IO.println("" + i);
+            IO.println("" + i);
+            return;
+        }
+
+        IO.println("" + i);
+
+        recursive(i + a, f, a);
+
+        IO.println("" + i);
+    }
+
+    else if (i - a <= f) return; // looping crescente termina
+
+    else if (f < i) // looping decrescente
+    {
+        IO.println("" + i);
+
+        recursive(i + a, f, a);
+
+        IO.println("" + i);
+    }
+}

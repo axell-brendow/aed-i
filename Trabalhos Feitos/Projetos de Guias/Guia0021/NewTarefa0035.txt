@@ -1,0 +1,36 @@
+35
+goInsideBox(); // entra dentro da caixa
+goPickAndBack(3, SOUTH);
+goPickAndBack(4, WEST);
+moveAndTurn(1, SOUTH); // anda um passo e vira para baixo
+goPickAndBack(4, SOUTH);
+goPickAndBack(5, EAST);
+moveAndTurn(1, SOUTH);
+goPickAndBack(5, WEST);
+moveAndTurn(2, SOUTH);
+goPickAndBack(5, EAST);
+moveAndTurn(1, NORTH);
+moveAndTurn(1, EAST);
+moveAndTurn(3, SOUTH);
+moveAndTurn(8, WEST);
+putBeepers(14);
+moveAndTurn(6, EAST); // volta a posicao inicial virado para o leste
+moveAndTurn(6, WEST); // volta onde deixou os marcadores
+pickBeepers(); // pega os marcadores novamente
+moveAndTurn(6, EAST); // volta a posicao inicial virado para o leste
+goInsideBox(); // entra dentro da caixa novamente
+goPutAndBack(5, WEST, 1); // desce, poe 1 marcador, volta e vira para o oeste
+moveAndTurn(1, SOUTH);
+goPutAndBack(5, WEST, 1);
+moveAndTurn(1, SOUTH);
+goPutAndBack(5, SOUTH, 1);
+goPutAndBack(4, EAST, 2);
+moveAndTurn(1, SOUTH);
+goPutAndBack(4, EAST, 2);
+moveAndTurn(1, SOUTH);
+goPutAndBack(4, WEST, 2);
+moveAndTurn(1, SOUTH);
+goPutAndBack(3, NORTH, 3);
+moveAndTurn(1, WEST);
+moveAndTurn(3, SOUTH);
+moveAndTurn(8, EAST);

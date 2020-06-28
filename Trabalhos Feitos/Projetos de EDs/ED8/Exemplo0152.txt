@@ -1,0 +1,5 @@
+Numero de elementos do arranjo (tamanho): 3
+Arranjo:
+1
+-1
+100

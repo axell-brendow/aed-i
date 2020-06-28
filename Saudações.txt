@@ -1,0 +1,30 @@
+Saudações,
+
+Comunicamos a disponibilidade de material didático no SGA.
+
+Recomendamos percorrer o site, principalmente para conhecer
+o programa da disciplina, calendário e outras informações
+úteis.
+
+Sugerimos providenciar a preparação das ferramentas para
+a preparação das listas de exercícios.
+
+Há uma lista de links úteis de onde essas ferramentas 
+podem ser baixadas.
+
+São indicadas as leituras prévias dos arquivos abaixo,
+os quais serão abordados nas primeiras aulas.
+
+Cronograma
+Bibliografia
+Anexos Java 01 e 02
+Exemplo_00
+
+Roteiro para elaboração de algoritmos
+Guia_01
+ED_01
+
+
+Até breve.
+
+T. Cruz

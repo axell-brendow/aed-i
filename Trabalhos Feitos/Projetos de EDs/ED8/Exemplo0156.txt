@@ -1,0 +1,10 @@
+Numero de elementos do arranjo (tamanho): 8
+Arranjo:
+48
+18
+27
+28
+-47
+-13
+-23
+17

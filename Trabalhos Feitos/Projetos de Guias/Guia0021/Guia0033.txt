@@ -1,0 +1,12 @@
+wall 1 0 10 2 1
+wall 0 1 10 1 1
+wall 2 3 6 1 7
+wall 3 3 5 1 7
+wall 4 3 5 1 7
+wall 5 3 6 1 7
+wall 3 2 3 2 7
+wall 3 8 1 2 7
+wall 5 8 1 2 7
+beeper 3 3 1 1
+beeper 4 3 2 1
+beeper 5 3 3 1
